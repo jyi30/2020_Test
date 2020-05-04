@@ -4,6 +4,6 @@ int main()
 {
   printf("Hello, world");
   printf("first github");
-  printf("hi");
+  printf("hi2");
   return 0;
 }
